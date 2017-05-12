@@ -8,7 +8,6 @@ This repository contains Dockerfile for publishing Docker's automated build to t
 > docker build -t mono-nginx-aspnet-example . 
 
 > docker run -it -p 8080:80 mono-nginx-aspnet-example
-
 ```
 **And then browse to your docker host on port 8080.**
 
